@@ -1,2 +1,3 @@
 class SightingsController < ApplicationController
+  
 end
